@@ -1,3 +1,7 @@
 Name: demo.rpc
 ListenOn: 0.0.0.0:8080
+<<<<<<< HEAD
 Mode: dev
+=======
+Mode: dev
+>>>>>>> aee7483ffb934e292e5a79e8a37850ec1003487b
