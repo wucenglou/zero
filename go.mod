@@ -1,18 +1,10 @@
 module zero
 
-<<<<<<< HEAD
 go 1.22.5
 
 require (
 	github.com/zeromicro/go-zero v1.7.2
 	google.golang.org/grpc v1.66.0
-=======
-go 1.22.4
-
-require (
-	github.com/zeromicro/go-zero v1.7.2
-	google.golang.org/grpc v1.65.0
->>>>>>> aee7483ffb934e292e5a79e8a37850ec1003487b
 	google.golang.org/protobuf v1.34.2
 )
 
