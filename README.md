@@ -1,1 +1,1 @@
-# zero 0.0.1 hello
+# zero 0.0.1 hello world example for the zero programming language
