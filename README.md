@@ -1,1 +1,1 @@
-# zero 0.0.1 hello world
+# zero 0.0.1 hello
