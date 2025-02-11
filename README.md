@@ -1,1 +1,1 @@
-# zero 0.0.1 hello world example
+# zero 0.0.1 hello world
